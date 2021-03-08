@@ -1,0 +1,5 @@
+核心一个类
+WebSecurityConfig
+两个方法：
+userDetailsService 配置用户信息与资源权限
+configure 鉴权

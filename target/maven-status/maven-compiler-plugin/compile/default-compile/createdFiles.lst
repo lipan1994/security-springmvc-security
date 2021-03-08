@@ -1,0 +1,6 @@
+com\llicat\controller\LoginController.class
+com\llicat\config\WebSecurityConfig.class
+com\llicat\config\ApplicationConfig.class
+com\llicat\config\WebConfig.class
+com\llicat\init\SpringSecurityApplicationInitializer.class
+com\llicat\init\SpringApplicationInitializer.class
